@@ -1,7 +1,7 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+## This is my approach to your coding challenge you sent
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+The important notebook with the exercises and my general modelling approach can be found in notebooks/.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+The provided files that consist of the dependent and independent variables can be found in df/.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+
